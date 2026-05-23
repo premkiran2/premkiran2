@@ -1,6 +1,6 @@
 # Hi, I'm Prem Kiran Polepalli! 👋
 
-I am a **Full-Stack Software Engineer & Tech Lead** with over 3 years of enterprise experience (Clarivate) combined with robust open-source leadership. I specialize in building highly scalable microservices, secure web applications, and real-time distributed systems.
+I am a **Full-Stack Software Engineer & Tech Lead** with over 5 years of enterprise experience (Clarivate) combined with robust open-source leadership. I specialize in building highly scalable microservices, secure web applications, and real-time distributed systems.
 
 - 🎓 **Education:** MS in Computer Science from Saint Louis University (GPA: 3.89)
 - 🚀 **Current Focus:** Leading full-stack engineering teams, optimizing database performance, and implementing robust CI/CD pipelines.
